@@ -1,0 +1,11 @@
+@mixin func($var) {
+    height:$var;
+}
+.card{
+    img{
+    @include func(15rem);
+    }
+}
+.card-deck{
+margin-top:2rem;
+}

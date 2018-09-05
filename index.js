@@ -1,0 +1,16 @@
+import 'bootstrap';
+import './scss/index.scss';
+import './img/new1.jpg';
+import './img/new2.jpg';
+import './img/new3.jpg';
+import './img/logo.jpg';
+import './img/google.jpg';
+import './img/img0.jpg';
+import './img/img1.jpeg';
+import './img/img2.jpg';
+import './img/oracle.jpg';
+import './img/rank-2nd.jpg';
+import './img/sap.jpg';
+import './img/tedx1.jpeg';
+import './img/tedx2.png';
+import './img/vmware.jpg';

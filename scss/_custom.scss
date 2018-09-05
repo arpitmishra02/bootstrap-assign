@@ -1,0 +1,63 @@
+$blue: black;
+
+
+body{
+    background-color: rgb(38, 9, 146);
+}
+
+.carousel-item{
+    margin-top:2rem;  
+    img{
+        height:50rem;
+    }
+}
+
+.navbar fixed-position{
+    position:fixed;
+    z-index: 9999;
+    width:100%;
+}
+.modal-body{
+    display: flex;
+    justify-content: center; 
+}
+/*.base{
+	display: flex;
+    color:black;
+
+.Us{
+	flex:1;
+}
+.MailUs
+{
+text-align: center;
+	font-size: 15px;
+	color:black;
+	margin:0;
+	background-color: #7C6F85;
+	padding-top:2%	
+}
+.ContactUs
+{
+text-align: center;
+	font-size: 15px;
+	color:Black;
+	margin:0;
+	background-color: #7C6F85;
+	padding-top:5%	
+}
+
+.FollowUs
+{
+	text-align: center;
+	font-size: 50px;
+	color:whitesmoke;
+	margin:0;
+	background-color: #7C6F85;
+	padding-top:5%;
+	
+}
+.fas, .fab{
+	color:white;
+}
+}*/
